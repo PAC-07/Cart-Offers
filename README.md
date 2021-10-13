@@ -4,12 +4,16 @@ This is a PySpark project including pytest to process shopping cart and apply of
 Write a program driven by unit tests that can price a basket of goods taking into account some special offers.
 The goods that can be purchased, together with their normal prices are:
 ● Soup – 65p per tin
+
 ● Bread – 80p per loaf
+
 ● Milk – £1.30 per bottle
+
 ● Apples – £1.00 per bag
 
 Current special offers
 ● Apples have a 10% discount off their normal price this week
+
 ● Buy 2 tins of soup and get a loaf of bread for half price
 
 The program should accept a list of items in the basket and output the subtotal, the special offer discounts and the final price.
