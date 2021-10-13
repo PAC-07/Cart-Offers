@@ -12,6 +12,7 @@ The goods that can be purchased, together with their normal prices are:
 ● Apples – £1.00 per bag
 
 Current special offers
+
 ● Apples have a 10% discount off their normal price this week
 
 ● Buy 2 tins of soup and get a loaf of bread for half price
