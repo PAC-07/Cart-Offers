@@ -1,0 +1,14 @@
+/.idea/
+/py_venv/
+/.tox/
+.vscode/settings.json
+/.vscode/
+__pycache__/
+build/
+dist/
+junit/
+.python-version
+*.egg-info/
+.pytest_cache
+.coverage
+venv
